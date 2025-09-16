@@ -49,7 +49,7 @@
     "jimp": "^0.16.1",
     "libphonenumber-js": "^1.10.20",
     "link-preview-js": "^3.0.0",
-    "libsignal": "github:techwiz37/signal-node",
+    "libsignal": "github:ElrayyXml/signal-node",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
@@ -113,10 +113,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/ElrayyXml/Baileys.git"
+    "url": "git+https://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@github.com/ElrayyXml/Baileys.git"
   },
   "bugs": {
     "url": "https://github.com/ElrayyXml/Baileys/issues"
   }
 
 }
+
